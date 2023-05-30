@@ -11,8 +11,9 @@ Bee，互联网新时代的Java ORM框架,
 支持多种关系型数据库(MySQL,MariaDB,Oracle,H2,SQLite,PostgreSQL,SQL Server,Access,金仓,达梦等),  
 还支持NoSQL的Cassandra,Mongodb等.  
 
-### V2.1 Mongodb ORM主要功能
-面向对象Sharding分片
+### V2.1 Mongodb ORM主要功能  
+面向对象ORM操作  
+面向对象Sharding分片  
 批量插入分片  
 广播表批量插入所有库  
 分片键分片支持的运算符  
