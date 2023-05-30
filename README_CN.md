@@ -2,9 +2,9 @@
 MongoDB ORM(Bee)
 =========
 ## 此工程为MongoDB ORM的Exam工程. 
+**Mongodb ORM** 是Bee提供众多ORM功能的一部分;  
 **Bee** 是一个简单，易用，功能强大，开发速度快，编码少的 JAVA ORM 框架。  
 
-**Mongodb ORM** 是Bee提供众多ORM功能的一部分;  
 Bee，互联网新时代的Java ORM框架,  
 同时支持JDBC(比如JavaWeb),Android和Harmony;  
 支持Sharding分片;  
@@ -20,6 +20,7 @@ https://github.com/automvc/bee
 或者:  
 https://gitee.com/automvc/bee  
 
+#### Bee与Spring boot整合:  
 **[查看 bee-spring-boot](../../../bee-springboot)**  
 **[查看 bee-spring-boot-starter](../../../bee-spring-boot-starter)** 
 
